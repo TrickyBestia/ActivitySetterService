@@ -4,3 +4,4 @@ A service for the [TrickyBot](https://github.com/TrickyBestia/TrickyBot) that al
 ## Discord commands
 ### `activity set {activity}`
 Sets a status of the bot.
+Requires `activity.set` permission.
